@@ -5,3 +5,7 @@ body {
 .jumbotron {
     background-color: white;
 }
+
+.btn-secondary {
+    margin-bottom: 10px;
+}
