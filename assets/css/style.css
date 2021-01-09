@@ -9,3 +9,7 @@ body {
 .btn-secondary {
     margin-bottom: 10px;
 }
+
+.rounded-circle {
+    background-color:gray!important;
+}
