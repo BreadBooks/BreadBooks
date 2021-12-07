@@ -2,7 +2,7 @@
 
 
 ## Description
- My updated portfolio post Project-2. Check it out [here.](https://breadbooks.github.io/Portfolio-Two/)
+ My updated portfolio post Project-2. Check it out [here.](https://breadbooks.github.io/BreadBooks/)
 ![Preview1](/assets/images/Preview1.png)
 
 
